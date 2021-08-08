@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  GloriaAppChallenge
+
+  Created by Martin Regas on 05/08/2021.
+  
+*/
+
+"tab_home_title" = "GLORIA CHALLENGE";
+"tab_settings_title" = "SETTINGS";
+
+"notifications_screen_title" = "NOTIFICATIONS";
+
+"profile_video_count" = "%d video";
+"profile_follower_count" = "%d follower";
+"profile_videos_count" = "%d videos";
+"profile_followers_count" = "%d followers";
+"profile_following_count" = "%d following";
+
+"default_api_error" = "An error has occurred";
+
+"alert_button_title" = "Ok";
